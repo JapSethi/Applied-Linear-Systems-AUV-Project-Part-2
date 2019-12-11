@@ -4,10 +4,10 @@
 
 #### Objectives Achieved: 
 
-- Modeled MIMO dynamic systems using state-space techniques.
-- Analytically and numerically solved for the dynamic response of any linear dynamic system and relate the response to the state-space system description.
 - Analyzed the open-loop and closed-loop stability of any state-space representation.
-- Designed linear state-feedback controllers using pole placement techniques.
+- Designed optimal linear state-feedback controllers using Linear Quadratic Regulator (LQR) technique.
+- Designed linear output-feedback controllers using a Luenberger Observer state estimator.
+- Designed optimal linear state-feedback controllers using Linear Quadratic Integral (LQI) technique.
 
 #### Languages Used:
 - Matlab
@@ -19,4 +19,4 @@
 - **Final_Project_Japnit_Sethi.pdf** - Published Document for a quick check of Solutions and Code
 - **animate_auv.p** - Animation code used throughout the code for easy visual and intuitive check
 - **auv_animate.mp4** - Sample Example of auv motion when animate_auv.p is executed
-- **Final_Project_Data** - Track of Iterations for Pole Placements method
+- **Final_Project_Data** - Track of Iterations for LQR, Observer+LQR and LQI methods
