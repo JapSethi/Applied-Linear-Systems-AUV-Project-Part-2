@@ -9,7 +9,8 @@
 - Designed linear output-feedback controllers using a Luenberger Observer state estimator.
 - Designed optimal linear state-feedback controllers using Linear Quadratic Integral (LQI) technique.
 
-![](AUVANIMATE.JPG)
+
+<p align="center"> <img src="auv_animate.gif"> </p>
 
 #### Languages Used:
 - Matlab
