@@ -1,6 +1,6 @@
-# Applied-Linear-Systems-AUV-Project-Part-2
+# <div align="center">Applied-Linear-Systems-AUV-Project-Part-2</div>
 
-**To design a state-feedback control system that can control the H-AUV (Autonomous Underwater Vehicle) depth and longitudinal position** 
+**<div align="center"> To design a state-feedback control system that can control the H-AUV (Autonomous Underwater Vehicle) depth and longitudinal position </div>** 
 
 #### Objectives Achieved: 
 
